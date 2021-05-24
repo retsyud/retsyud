@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @retsyud
 - 👀 I’m interested in quantom dots, nano scale engineering, thin-film chemistry, industry 4.0
-- 🌱 I’m currently learning python, html, Matlab, Berkeley Madonna, LabView.
+- 🌱 I’m currently learning python, html, Berkeley Madonna, Matlab, LabView.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me t.duyster@fau.de
 
