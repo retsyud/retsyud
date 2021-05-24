@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @retsyud
-- 👀 I’m interested in quantom dots, nano scale engineering, data visualization, electrochemical devices, industry 4.0
+- 👀 I’m interested in quantom dots, nano scale engineering, intelligent data analysis, electrochemical devices, industry 4.0
 - 🌱 I’m currently learning python, html, Berkeley Madonna, Matlab, LabView.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me t.duyster@fau.de
